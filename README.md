@@ -85,10 +85,11 @@ As **chaves estrangeiras** garantem integridade entre entidades.
 
 ---
 
-## 📝 Relatório do Projeto
+## 📝 Relatório do Projeto e Javadoc
 
 Um documento com todo o passo a passo está disponível:  
 📄 [Relatorio_Spotifei.docx](./Relatorio_Spotifei.docx)
+📄 file:///C:/Users/erikg/OneDrive/Documentos/NetBeansProjects/Spotfei/dist/javadoc/index.html
 
 ---
 
