@@ -26,7 +26,7 @@ Bem-vindo ao **Spotifei**, um sistema de músicas inspirado no Spotify, desenvol
 - **NetBeans** como IDE principal
 
 ---
-
+```
 ## 🗃️ Estrutura do Projeto
 ├── Controller
 │ └── LoginController.java, CadastroController.java, ...
@@ -39,7 +39,7 @@ Bem-vindo ao **Spotifei**, um sistema de músicas inspirado no Spotify, desenvol
 ├── README.md
 └── Relatorio_Spotifei.docx
 
-
+```
 ---
 
 ## 🗄️ Banco de Dados
